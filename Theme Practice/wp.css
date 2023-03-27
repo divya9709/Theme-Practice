@@ -1,0 +1,68 @@
+.head
+{background-color: black;
+width: 100%;
+height: 80px;
+}
+
+.headL
+{height: 80px;
+width: 20%;
+background-color: black;
+float: left;}
+
+h2
+{color: grey;
+font-size: 20px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: bolder;
+margin-left: 110px;
+margin-top: 30px;
+}
+
+.headC
+{
+   height: 80px;
+   width: 50%;
+   background-color: black;
+   float: left;
+   
+}
+
+ul li
+{list-style: none;
+color: white;
+float: left;
+margin-left: 40px;
+font-size: 20px;
+font-weight: bolder;
+margin-top: 15px;}
+
+.headR
+{height: 80px;
+width:30% ;
+background-color:black;
+float: right;
+}
+
+.headR input
+{font-size: 18px;
+margin-top: 30px;
+border-radius: 8px;
+font-style: normal;
+}
+
+.upper
+{height: 300px;
+width: 100%;
+background-color: green;
+}
+
+
+
+
+
+
+.lower
+{height: 400px;
+width: 100%;
+background-color: blue;}
